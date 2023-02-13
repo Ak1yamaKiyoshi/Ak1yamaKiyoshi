@@ -9,13 +9,13 @@ https://github.com/Ak1yamaKiyoshi/TicTacToe-pygame
 https://github.com/Ak1yamaKiyoshi/Snake
 
 ## ~ ~ Sortings ~ ~ 
-https://github.com/Ak1yamaKiyoshi/Sorting-Algorythms
+link: https://github.com/Ak1yamaKiyoshi/Sorting-Algorythms
 ##~ ~ Data Structures ~ ~
 https://github.com/Ak1yamaKiyoshi/Data-Structures
-### Trees
+## Trees
  - Binary Trees https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/Binary%20Tree
  - AVL Trees https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/AVL%20Tree
- ### Lists
+ ## Lists
  - Deque https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/lists/Deque
  - Queue https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/lists/Queue
  - Stack https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/lists/Stack

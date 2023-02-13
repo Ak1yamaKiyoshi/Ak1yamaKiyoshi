@@ -8,3 +8,5 @@ https://github.com/Ak1yamaKiyoshi/TicTacToe
 https://github.com/Ak1yamaKiyoshi/TicTacToe-pygame
  - Snake Game using pure Python 
 https://github.com/Ak1yamaKiyoshi/Snake
+
+~ ~ Data structures ~ ~

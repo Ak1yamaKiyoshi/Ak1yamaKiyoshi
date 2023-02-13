@@ -1,4 +1,4 @@
-##~ ~ Games ~ ~
+## Games
  - Hanoi Tower Demo+Game Python Pygame
 https://github.com/Ak1yamaKiyoshi/HanoiTower
  - TicTacToe Game using  JS
@@ -7,13 +7,10 @@ https://github.com/Ak1yamaKiyoshi/TicTacToe
 https://github.com/Ak1yamaKiyoshi/TicTacToe-pygame
  - Snake Game using pure Python 
 https://github.com/Ak1yamaKiyoshi/Snake
-
-## ~ ~ Sortings ~ ~ 
-link: https://github.com/Ak1yamaKiyoshi/Sorting-Algorythms
-
-##~ ~ Data Structures ~ ~
-link: https://github.com/Ak1yamaKiyoshi/Data-Structures
-
+## Sortings
+ - link: https://github.com/Ak1yamaKiyoshi/Sorting-Algorythms
+## Data Structures
+ - link: https://github.com/Ak1yamaKiyoshi/Data-Structures
 ## Trees
  - Binary Trees https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/Binary%20Tree
  - AVL Trees https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/AVL%20Tree

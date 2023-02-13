@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Ak1yamaKiyoshi
-- 👀 I’m interested in ...
-  - Machine Learning
-  - Web development
-- 🌱 I’m currently learning ...
-  - C/C++
-  - Python
-  - JavaScript 
-<!---
-Ak1yamaKiyoshi/Ak1yamaKiyoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+~ ~ Games ~ ~
+
+ - Hanoi Tower Demo+Game Python Pygame
+https://github.com/Ak1yamaKiyoshi/HanoiTower
+ - TicTacToe Game using  JS
+https://github.com/Ak1yamaKiyoshi/TicTacToe
+ - TicTacToe using python3 pygame 
+https://github.com/Ak1yamaKiyoshi/TicTacToe-pygame
+ - Snake Game using pure Python 
+https://github.com/Ak1yamaKiyoshi/Snake

@@ -10,8 +10,10 @@ https://github.com/Ak1yamaKiyoshi/Snake
 
 ## ~ ~ Sortings ~ ~ 
 link: https://github.com/Ak1yamaKiyoshi/Sorting-Algorythms
+
 ##~ ~ Data Structures ~ ~
-https://github.com/Ak1yamaKiyoshi/Data-Structures
+link: https://github.com/Ak1yamaKiyoshi/Data-Structures
+
 ## Trees
  - Binary Trees https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/Binary%20Tree
  - AVL Trees https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/AVL%20Tree

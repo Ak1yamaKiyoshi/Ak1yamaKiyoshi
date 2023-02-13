@@ -10,3 +10,5 @@ https://github.com/Ak1yamaKiyoshi/TicTacToe-pygame
 https://github.com/Ak1yamaKiyoshi/Snake
 
 ~ ~ Data structures ~ ~
+
+~ ~ Sorting Algorythms ~ ~ 

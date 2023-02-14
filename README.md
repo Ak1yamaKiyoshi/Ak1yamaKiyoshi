@@ -3,7 +3,7 @@
  - [TicTacToe Game using  JS](https://github.com/Ak1yamaKiyoshi/TicTacToe)
  - [TicTacToe using python3 pygame ](https://github.com/Ak1yamaKiyoshi/TicTacToe-pygame)
  - [Snake Game using pure Python ](https://github.com/Ak1yamaKiyoshi/Snake)
-## [Sortings](https://github.com/Ak1yamaKiyoshi/Sorting-Algorythms)
+## [Sortings](https://github.com/Ak1yamaKiyoshi/Algorithms/blob/main/Sortings/readme.md)
 ## [Data Structures](https://github.com/Ak1yamaKiyoshi/Data-Structures)
 ### Trees
  - [Binary Trees](https://github.com/Ak1yamaKiyoshi/Data-Structures/tree/main/Trees/Binary%20Tree)
